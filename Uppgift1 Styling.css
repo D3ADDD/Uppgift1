@@ -1,0 +1,52 @@
+h1 {
+  font-size: 22px;
+  line-height: 1.5;
+  background-color: red;
+  color: orange;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  font-size: 20px;
+  line-height: 1.5;
+  background-color: orange;
+  color: yellow;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;;
+}
+
+h3 {
+  font-size: 20px;
+  line-height: 1.5;
+  background-color: yellow;
+  color: green;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+  font-size: 20px;
+  line-height: 1.5;
+  background-color: green;
+  color: lightblue;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.inramad {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #f9f9f9;
+}
+
+.h3stycke {
+  background-color: yellow;
+  color: green;
+  text-align: right;
+}
